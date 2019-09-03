@@ -6,3 +6,9 @@
 
 <%= %> #Renders the javascript as HTML
 <% %> Evaluates code but doesn't add anything to the HTML
+
+
+#Styles and Partials
+* Show how to properly include public assets
+* Properly configure app to use EJS
+* Use Partials to dry up code!
